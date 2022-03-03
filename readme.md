@@ -1,8 +1,6 @@
-Halvdelæevregfen brød
 # Planeter
-Ikke mere smør
-
 ## Venus
-Brød er ikke kage.
-Tilbud på ost.
 Venus er planet. :o)
+Feta ost er den bedste ost i hele verden!
+Hej
+Jens Hansen havde e bondegård
