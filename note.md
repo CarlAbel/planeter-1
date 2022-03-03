@@ -11,6 +11,7 @@
     6b. Stage, Commit, (nogle gange Push)
 
 ARBEJDET ER FÆRDIGT (TROR DU SELV)
+Jeg tror ikke noget
 
 7. Opret et Pull-Request (PR)
     7a. informér controller
